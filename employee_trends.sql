@@ -1,5 +1,5 @@
-create database employee_trends;
-use employee_trends;
+
+use hrdata;
 
 -- To read Data 
 SELECT * FROM hrdata;
